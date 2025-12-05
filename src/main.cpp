@@ -16,6 +16,12 @@
 
 #define CHECKSZ(t, s) static_assert(sizeof(t) == s)
 
+/*
+	NOTE
+	This code was thrown together from scratch in just a couple hours, including reverse engineering the TCO format -
+	as a result of this, it is neither pretty nor optimized, as the main focus was to just make it work.
+*/
+
 using uint64 = uint64_t;
 using uint32 = uint32_t;
 using uint16 = uint16_t;
