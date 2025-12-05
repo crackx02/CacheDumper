@@ -10,7 +10,9 @@ This is useful in certain situations, e.g. if you accidentally perma-deleted a t
 
 ## How to use
 
-To use the dumper, **place the `CacheDumper.exe` in your Scrap Mechanic Cache directory: `steamapps/common/Scrap Mechanic/Cache/CacheDumper.exe`.**  
+To use the dumper, **place the `CacheDumper.exe` in the Cache directory of either the game or a mod.  
+Example: `Scrap Mechanic/Cache/CacheDumper.exe` or `YourMod/Cache/CacheDumper.exe`.**  
+
 Then simply execute it to automatically parse and dump all cached textures from `Cache/Textures/`.  
 If the dumper is invoked from a CMD, process information and error messages (if any) will be shown.  
 
