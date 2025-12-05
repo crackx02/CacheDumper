@@ -1,6 +1,7 @@
 ## CacheDumper
 
-This utility program reads Scrap Mechanic cache files (e.g. TCO texture cache files) and dumps their contents to the disk.
+This utility program reads Scrap Mechanic cache files (e.g. TCO texture cache files) and dumps their contents to the disk.  
+This is useful in certain situations, e.g. if you accidentally perma-deleted a texture and need to recover it from the cache.
 
 **Note - The dumper currently supports ONLY texture cache files (.TCO)!**
 
